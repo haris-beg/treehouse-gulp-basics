@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/haris-beg/treehouse-gulp-basics/issues"
   },
-  "homepage": "https://github.com/haris-beg/treehouse-gulp-basics#readme"
+  "homepage": "https://github.com/haris-beg/treehouse-gulp-basics#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
