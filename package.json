@@ -1,0 +1,19 @@
+{
+  "name": "treehouse-gulp-basics",
+  "version": "1.0.0",
+  "description": "https://teamtreehouse.com/library/gulp-basics/welcome-to-gulpjs/installing-gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haris-beg/treehouse-gulp-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haris-beg/treehouse-gulp-basics/issues"
+  },
+  "homepage": "https://github.com/haris-beg/treehouse-gulp-basics#readme"
+}
