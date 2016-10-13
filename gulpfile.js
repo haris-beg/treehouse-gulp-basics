@@ -32,7 +32,11 @@ gulp.task('compileSass', function() {
       .pipe(sass())
       .pipe(maps.write('./'))
       .pipe(gulp.dest('css'));
-})
+});
+
+gulp.task('watchSass', function () {
+    gulp.watch('scss/**/*.scss', ['compileSass']);
+});
 
 gulp.task("build", ['minifyScripts', 'compileSass']);
 
